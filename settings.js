@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.owner = ['923229931076']
+global.premium = ['923229931076']
+global.ownernomer = '923229931076'
+global.ownername = '𝔦𝔱𝔵_𝔦𝔟𝔯𝔞𝔥𝔦𝔪'
+global.botname = '𝔦𝔱𝔵_𝔦𝔟𝔯𝔞𝔥𝔦𝔪_𝔟𝔬𝔱'
+global.footer = '©𝔦𝔱𝔵_𝔦𝔟𝔯𝔞𝔥𝔦𝔪.'
+global.ig = 'none'
+global.region = 'Pakistan, KPK Abbottabad'
+global.sc = 'none'
+global.myweb = 'none'
+global.packname = '𝔦𝔱𝔵_𝔦𝔟𝔯𝔞𝔥𝔦𝔪_𝔟𝔬𝔱'
+global.author = '𝔦𝔱𝔵_𝔦𝔟𝔯𝔞𝔥𝔦𝔪'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -48,16 +48,16 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
-    monayawal: 1000
+    free: 99999999,
+    monayawal: 1000000000
 }
    global.rpg = {
-   darahawal: 100,
-   besiawal: 15,
-   goldawal: 10,
-   emeraldawal: 5,
-   umpanawal: 5,
-   potionawal: 1
+   darahawal: 100999999,
+   besiawal: 1899995,
+   goldawal: 1099999,
+   emeraldawal: 599999,
+   umpanawal: 599999,
+   potionawal:99999
 }
 global.thumb = fs.readFileSync('./GojoMedia/gojo.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
